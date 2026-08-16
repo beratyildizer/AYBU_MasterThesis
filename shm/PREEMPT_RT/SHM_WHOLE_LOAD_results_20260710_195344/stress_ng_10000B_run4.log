@@ -1,0 +1,18 @@
+stress-ng: info:  [6819] setting to a 3 mins run per stressor
+stress-ng: info:  [6819] dispatching hogs: 4 cpu, 2 vm, 4 iomix, 8 pipe, 2 hdd
+stress-ng: info:  [6819] note: /proc/sys/kernel/sched_autogroup_enabled is 1 and this can impact scheduling throughput for processes not attached to a tty. Setting this to 0 may improve performance metrics
+stress-ng: info:  [6827] iomix: using 256M file system space per stressor instance (total 1G of 47.82G available file system space)
+stress-ng: info:  [6825] vm: using 3.04G per stressor instance (total 6.07G of 7.54G available memory)
+stress-ng: info:  [6839] hdd: using 512M file system space per stressor instance (total 1G of 47.07G available file system space)
+stress-ng: metrc: [6819] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [6819]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [6819] cpu                1939     45.54     43.52      0.54        42.58          44.01
+stress-ng: metrc: [6819] vm               391500     45.63     19.01      1.39      8579.08       19192.09
+stress-ng: metrc: [6819] iomix              6055     46.26      7.69      2.45       130.90         597.56
+stress-ng: metrc: [6819] pipe           34723012     45.50      5.88     88.47    763171.81      368053.78
+stress-ng: metrc: [6819] hdd               15096     46.04      0.45      0.40       327.90       17578.55
+stress-ng: info:  [6819] skipped: 0
+stress-ng: info:  [6819] passed: 20: cpu (4) vm (2) iomix (4) pipe (8) hdd (2)
+stress-ng: info:  [6819] failed: 0
+stress-ng: info:  [6819] metrics untrustworthy: 0
+stress-ng: info:  [6819] successful run completed in 46.38 secs

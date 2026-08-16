@@ -1,0 +1,11 @@
+stress-ng: info:  [4455] setting to a 3 mins run per stressor
+stress-ng: info:  [4455] dispatching hogs: 8 pipe
+stress-ng: info:  [4455] note: /proc/sys/kernel/sched_autogroup_enabled is 1 and this can impact scheduling throughput for processes not attached to a tty. Setting this to 0 may improve performance metrics
+stress-ng: metrc: [4455] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [4455]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [4455] pipe           43407336     23.94      5.87     80.51   1812858.09      502522.68
+stress-ng: info:  [4455] skipped: 0
+stress-ng: info:  [4455] passed: 8: pipe (8)
+stress-ng: info:  [4455] failed: 0
+stress-ng: info:  [4455] metrics untrustworthy: 0
+stress-ng: info:  [4455] successful run completed in 23.95 secs
