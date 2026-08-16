@@ -1,0 +1,2361 @@
+#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 1803
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 1362
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 955
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 423
+#1 -> #0, Min    1, Cur    2, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   18
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   24
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 2208
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 1769
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 1395
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 831
+#1 -> #0, Min    1, Cur    4, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    3, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   25
+#7 -> #6, Min    1, Cur    3, Avg    2, Max   24
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 2625
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 2187
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 1847
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 1248
+#1 -> #0, Min    1, Cur    2, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   25
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   24
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 3053
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 2615
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 2296
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 1676
+#1 -> #0, Min    1, Cur    2, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   25
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   38
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 3467
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 3030
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 2745
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 2093
+#1 -> #0, Min    1, Cur    2, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    3, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   25
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   38
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 3896
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 3459
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 3197
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 2524
+#1 -> #0, Min    1, Cur    1, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    3, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   29
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   38
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 4313
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 3880
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 3647
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 2943
+#1 -> #0, Min    1, Cur    5, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   29
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   38
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 4723
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 4294
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 4097
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 3357
+#1 -> #0, Min    1, Cur    3, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   29
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 5151
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 4721
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 4548
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 3787
+#1 -> #0, Min    1, Cur    2, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   29
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 5566
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 5137
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 4997
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 4203
+#1 -> #0, Min    1, Cur    2, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    5, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   29
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 5994
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 5567
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 5450
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 4633
+#1 -> #0, Min    1, Cur    3, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   29
+#7 -> #6, Min    1, Cur    3, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 6408
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 5986
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 5901
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 5052
+#1 -> #0, Min    1, Cur    5, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    4, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 6825
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 6405
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 6353
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 5471
+#1 -> #0, Min    1, Cur    3, Avg    3, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 7253
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 6835
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 6806
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 5903
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 7674
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 7257
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 7259
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 6326
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 8130
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 7712
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 7727
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 6781
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 8585
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 8166
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 8191
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 7236
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 9034
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 8615
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 8638
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 7685
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 9488
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 9068
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 9091
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 8139
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 9941
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 9521
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 9545
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 8591
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 10388
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 9975
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 9998
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 9045
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 10842
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 10427
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 10451
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 9376
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 11292
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 10869
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 10898
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 9803
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 11747
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 11321
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 11351
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 10240
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 12198
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 11773
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 11802
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 10691
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 12654
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 12228
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 12260
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 11146
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 13109
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 12683
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 12715
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 11602
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 13562
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 13137
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 13170
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 12055
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 14013
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 13589
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 13622
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 12505
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   32
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    3, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 14463
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 14038
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 14073
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 12956
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 14915
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 14490
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 14525
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 13408
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 15368
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 14943
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 14977
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 13861
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 15819
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 15392
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 15428
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 14313
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 16273
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 15848
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 15882
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 14766
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 16725
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 16300
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 16336
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 15219
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 17180
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 16754
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 16792
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 15674
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 17630
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 17203
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 17244
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 16123
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 18081
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 17655
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 17698
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 16577
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 18533
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 18106
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 18151
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 17030
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 18985
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 18559
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 18605
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 17486
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 19438
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 19011
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 19058
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 17940
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 19890
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 19462
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 19510
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 18393
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    6, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 20344
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 19916
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 19964
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 18849
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 20798
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 20367
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 20421
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 19304
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    3, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 21251
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 20820
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 20876
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 19759
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 21703
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 21271
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 21329
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 20211
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 22158
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 21723
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 21780
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 20667
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 22607
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 22171
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 22229
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 21118
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 23062
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 22624
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 22683
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 21574
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 23516
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 23077
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 23136
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 22031
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   41
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 23966
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 23526
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 23585
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 22483
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 24421
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 23979
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 24037
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 22939
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 24875
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 24431
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 24489
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 23394
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 25332
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 24886
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 24945
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 23852
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    3, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 25782
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 25334
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 25393
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 24302
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    3, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 26234
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 25785
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 25842
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 24755
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    3, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 26692
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 26240
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 26299
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 25211
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 27147
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 26693
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 26753
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 25665
+#1 -> #0, Min    1, Cur    3, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 27601
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 27146
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 27208
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 26120
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 28060
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 27603
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 27665
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 26578
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 28516
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 28058
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 28119
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 27034
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 28970
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 28509
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 28571
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 27486
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 29427
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 28962
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 29026
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 27940
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 29885
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 29418
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 29480
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 28397
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 30343
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 29873
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 29936
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 28852
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 30798
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 30326
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 30390
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 29305
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 31251
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 30778
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 30841
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 29758
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 31710
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 31235
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 31300
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 30215
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 32165
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 31688
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 31754
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 30669
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 32624
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 32144
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 32211
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 31126
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 33078
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 32594
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 32664
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 31578
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 33537
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 33050
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 33122
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 32034
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   34
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    2, Avg    2, Max   49
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 93034
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 92590
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 92792
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 91521
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   70
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 120432
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 120040
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 120272
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 118899
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    3, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 120885
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 120494
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 120728
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 119351
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 121338
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 120946
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 121182
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 119803
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    4, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 121792
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 121401
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 121645
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 120256
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 122250
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 121859
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 122113
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 120712
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 122705
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 122316
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 122580
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 121165
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 123165
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 122776
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 123054
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 121621
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    3, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 123618
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 123231
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 123518
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 122074
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 124075
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 123668
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 123989
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 122523
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 124531
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 124118
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 124455
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 122973
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 124986
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 124574
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 124925
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 123427
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 125445
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 125033
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 125395
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 123884
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    2, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 125900
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 125491
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 125862
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 124338
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 126355
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 125946
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 126332
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 124792
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 180399
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 180175
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 180778
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 178821
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 185304
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 185111
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 185701
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 183724
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 185754
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 185564
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 186152
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 184175
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max   65
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 239076
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 239119
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 239752
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 237488
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   44
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 289520
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 289746
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 290352
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 288198
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 290341
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 290569
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 291171
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 289020
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 290811
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 291040
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 291642
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 289489
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 291252
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 291485
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 292087
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 289935
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 291729
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 291965
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 292567
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 290413
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 293863
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 294116
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 294722
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 292580
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 295787
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 296052
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 296663
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 294554
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 296236
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 296503
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 297113
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 295013
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 296812
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 297082
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 297693
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 295608
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 298799
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 299080
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 299678
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 297640
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 300404
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 300692
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 301283
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 299280
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 301236
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 301528
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 302118
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 300131
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 301868
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 302162
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 302753
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 300778
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 302315
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 302609
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 303200
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 301236
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   52
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 304669
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 304973
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 305566
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 303646
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 305209
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 305515
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 306109
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 304199
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 307170
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 307513
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 308085
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 306207
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 308566
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 308922
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 309502
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 307628
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 309007
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 309364
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 309946
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 308073
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 309656
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 310015
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 310603
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 308723
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 310096
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 310461
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 311050
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 309170
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 312628
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 313001
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 313603
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 311729
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 313301
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 313675
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 314276
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 312415
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 314292
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 314669
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 315272
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 313434
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 314840
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 315219
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 315822
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 313996
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 315292
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 315672
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 316275
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 314459
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    3, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 315737
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 316118
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 316722
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 314919
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 316296
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 316678
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 317283
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 315490
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 318369
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 318760
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 319364
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 317623
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 319088
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 319483
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 320086
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 318366
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 320937
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 321352
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 321940
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 320248
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    3, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 321377
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 321796
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 322381
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 320689
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 321827
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 322250
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 322833
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 321141
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 322423
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 322848
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 323430
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 321738
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 324789
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 325228
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 325804
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 324110
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 326381
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 326829
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 327403
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 325706
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 326833
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 327284
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 327855
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 326161
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 327608
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 328061
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 328632
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 326938
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 328534
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 328996
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 329565
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 327872
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    3, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 329264
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 329732
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 330297
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 328604
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 329832
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 330304
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 330868
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 329173
+#1 -> #0, Min    1, Cur    6, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 330278
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 330750
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 331314
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 329621
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 331209
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 331684
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 332248
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 330553
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    6, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 331709
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 332178
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 332743
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 331046
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    4, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 332499
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 332949
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 333514
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 331815
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 333417
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 333848
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 334421
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 332716
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 334787
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 335192
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 335793
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 334068
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 335538
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 335941
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 336549
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 334820
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 336694
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 337099
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 337710
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 335985
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 337141
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 337547
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 338158
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 336429
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 338032
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 338436
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 339046
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 337328
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 338483
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 338888
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 339497
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 337790
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 340359
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 340766
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 341378
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 339708
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 341391
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 341799
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 342413
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 340761
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 341839
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 342246
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 342861
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 341220
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 342454
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 342869
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 343476
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 341839
+#1 -> #0, Min    1, Cur    3, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    4, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    3, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 342867
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 343314
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 343894
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 342261
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 343823
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 344275
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 344852
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 343222
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 345521
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 345974
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 346550
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 344924
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 347178
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 347629
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 348207
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 346583
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    4, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 347629
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 348079
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 348657
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 347038
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    4, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 348239
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 348689
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 349266
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 347653
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 349437
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 349890
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 350466
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 348865
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    3, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 350258
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 350714
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 351287
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 349695
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 351060
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 351519
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 352089
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 350501
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 352374
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 352822
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 353389
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 351814
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 352836
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 353272
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 353839
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 352267
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 353295
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 353722
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 354290
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 352721
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 354038
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 354461
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 355029
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 353461
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 354713
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 355133
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 355704
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 354136
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 356405
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 356828
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 357405
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 355832
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 358116
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 358544
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 359125
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 357551
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 359183
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 359609
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 360196
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 358627
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 360095
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 360517
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 361108
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 359538
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 360642
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 361062
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 361652
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 360082
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 361302
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 361721
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 362311
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 360740
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 363458
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 363876
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 364470
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 362902
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    3, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 367121
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 367546
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 368145
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 366624
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 367572
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 368001
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 368598
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 367090
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 368070
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 368504
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 369099
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 367601
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 368522
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 368960
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 369552
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 368066
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 369944
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 370395
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 370982
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 369528
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 370699
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 371153
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 371741
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 370303
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 371989
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 372438
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 373026
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 371596
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 373116
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 373552
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 374139
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 372712
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 373563
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 373994
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 374579
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 373154
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur   25, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 374552
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 374983
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 375564
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 374139
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 376176
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 376617
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 377184
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 375796
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 377016
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 377459
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 378023
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 376655
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 377464
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 377909
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 378469
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 377112
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 379905
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 380358
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 380910
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 379609
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 380570
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 381024
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 381573
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 380287
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 381021
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 381475
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 382025
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 380752
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 384557
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 385022
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 385560
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 384378
+#1 -> #0, Min    1, Cur    3, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 385013
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 385479
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 386018
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 384847
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 385593
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 386060
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 386597
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 385431
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 387440
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 387915
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 388447
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 387327
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 389034
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 389520
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 390044
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 388964
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 390083
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 390575
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 391096
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 390044
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 391026
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 391519
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 392038
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 391015
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 391478
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 391972
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 392490
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 391476
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 393124
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 393615
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 394128
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 393136
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 394745
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 395237
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 395744
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 394769
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 395668
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 396158
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 396662
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 395692
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 396181
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 396673
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 397176
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 396206
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    3, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 396629
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 397122
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 397624
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 396655
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 398499
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 398997
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 399492
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 398527
+#1 -> #0, Min    1, Cur    4, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 398953
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 399446
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 399941
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 398976
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 400490
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 400944
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 401438
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 400479
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 402366
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 402769
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 403261
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 402310
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 402829
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 403221
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 403713
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 402762
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 404431
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 404798
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 405289
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 404335
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    3, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 404912
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 405268
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 405759
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 404805
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 406946
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 407253
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 407741
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 406791
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 407945
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 408227
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 408715
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 407765
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    3, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 409126
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 409379
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 409863
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 408915
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 409764
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 410003
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 410485
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 409538
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    3, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 410391
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 410615
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 411096
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 410149
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 411235
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 411440
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 411918
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 410973
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 413913
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 414053
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 414528
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 413587
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 415076
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 415190
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 415664
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 414725
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 415557
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 415657
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 416132
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 415194
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   76
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 418422
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 418451
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 418920
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 417991
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 418963
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 418977
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 419447
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 418519
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 420523
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 420507
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 420982
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 420055
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 420982
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 420954
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 421430
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 420502
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 421452
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 421409
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 421884
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 420958
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 421915
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 421860
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 422334
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 421409
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 422365
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 422309
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 422779
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 421854
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 422816
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 422757
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 423226
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 422303
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    3, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 424935
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 424888
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 425331
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 424418
+#1 -> #0, Min    1, Cur    3, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 425378
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 425323
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 425787
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 424859
+#1 -> #0, Min    1, Cur    3, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 427624
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 427574
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 428037
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 427107
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 429921
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 429873
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 430342
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 429406
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 430368
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 430320
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 430789
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 429853
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 430814
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 430767
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 431237
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 430300
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 431257
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 431212
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 431679
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 430742
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 431701
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 431657
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 432124
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 431187
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 432148
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 432108
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 432574
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 431635
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 432589
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 432550
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 433017
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 432078
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    3, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 433028
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 432994
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 433455
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 432520
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 433470
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 433441
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 433900
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 432965
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 433917
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 433889
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 434347
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 433412
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 434359
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 434334
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 434789
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 433855
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 434800
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 434778
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 435227
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 434297
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 435242
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 435224
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 435673
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 434742
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 435687
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 435671
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 436119
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 435188
+#1 -> #0, Min    1, Cur    7, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 436128
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 436117
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 436562
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 435631
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    3, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 439147
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 439154
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 439589
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 438654
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 458654
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 458732
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 459170
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 458154
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 459544
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 459625
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 460061
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 459047
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 461072
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 461153
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 461604
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 460575
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 461677
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 461757
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 462209
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 461182
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 462343
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 462424
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 462877
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 461849
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 462984
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 463064
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 463518
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 462490
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 465865
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 465948
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 466395
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 465369
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 467079
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 467100
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 467610
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 466626
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 467533
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 467552
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 468061
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 467079
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 467985
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 468002
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 468510
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 467535
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 470916
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 470930
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 471440
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 470531
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 485596
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 485486
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 486012
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 485102
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 487818
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 487704
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 488234
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 487323
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 488395
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 488281
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 488814
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 487902
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 491669
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 491583
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 492119
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 491205
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 492104
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 492026
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 492563
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 491650
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 492541
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 492470
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 493006
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 492094
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 494581
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 494537
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 495076
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 494160
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 495032
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 494987
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 495531
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 494609
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    4, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 495481
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 495435
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 495984
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 495059
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 495933
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 495887
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 496439
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 495511
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 496384
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 496337
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 496892
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 495962
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 496834
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 496786
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 497347
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 496412
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 497282
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 497235
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 497800
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 496860
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 497733
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 497686
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 498255
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 497311
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 498184
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 498134
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 498708
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 497762
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 498634
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 498582
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 499161
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 498211
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 499081
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 499030
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 499613
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 498659
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 499532
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 499479
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 500068
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 499108
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 499984
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 499930
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 500524
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 499561
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 500432
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 500379
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 500976
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 500009
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 500882
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 500828
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 501431
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 500460
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 501337
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 501282
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 501889
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 500914
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 501786
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 501730
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 502338
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 501363
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 502238
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 502182
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 502791
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 501816
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 502689
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 502630
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 503245
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 502266
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 503105
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 503045
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 503688
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 502680
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 503549
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 503489
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 504131
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 503123
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 503996
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 503934
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 504578
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 503570
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 504445
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 504382
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 505029
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 504018
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 504893
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 504828
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 505477
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 504464
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 505344
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 505280
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 505927
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 504915
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    3, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 505794
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 505729
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 506376
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 505364
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 506242
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 506175
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 506823
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 505812
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 506686
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 506617
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 507263
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 506256
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 507130
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 507059
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 507702
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 506699
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 507582
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 507509
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 508120
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 507151
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 508023
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 507949
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 508541
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 507593
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 508470
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 508397
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 508991
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 508043
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 508921
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 508846
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 509442
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 508494
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 509368
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 509292
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 509889
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 508940
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 509819
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 509741
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 510340
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 509390
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    2, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 510266
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 510187
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 510788
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 509836
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    2, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 510716
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 510637
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 511237
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 510285
+#1 -> #0, Min    1, Cur    1, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    2, Avg    2, Max  102
+[8A#0: ID1711, P98, CPU0, I100; #1: ID1712, P98, CPU0, TO 0, Cycles 511167
+#2: ID1713, P98, CPU1, I100; #3: ID1714, P98, CPU1, TO 0, Cycles 511087
+#4: ID1715, P98, CPU2, I100; #5: ID1716, P98, CPU2, TO 0, Cycles 511690
+#6: ID1717, P98, CPU3, I100; #7: ID1718, P98, CPU3, TO 0, Cycles 510736
+#1 -> #0, Min    1, Cur    2, Avg    2, Max   90
+#3 -> #2, Min    1, Cur    1, Avg    2, Max  182
+#5 -> #4, Min    1, Cur    1, Avg    2, Max   94
+#7 -> #6, Min    1, Cur    1, Avg    2, Max  102
+[8A[10B

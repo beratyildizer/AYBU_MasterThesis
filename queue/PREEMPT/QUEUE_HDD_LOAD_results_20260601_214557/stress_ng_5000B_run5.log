@@ -1,0 +1,12 @@
+stress-ng: info:  [6793] setting to a 3 mins run per stressor
+stress-ng: info:  [6793] dispatching hogs: 2 hdd
+stress-ng: info:  [6793] note: /proc/sys/kernel/sched_autogroup_enabled is 1 and this can impact scheduling throughput for processes not attached to a tty. Setting this to 0 may improve performance metrics
+stress-ng: info:  [6795] hdd: using 512M file system space per stressor instance (total 1G of 47.46G available file system space)
+stress-ng: metrc: [6793] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [6793]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [6793] hdd               32768     44.99      0.48      0.52       728.26       32535.66
+stress-ng: info:  [6793] skipped: 0
+stress-ng: info:  [6793] passed: 2: hdd (2)
+stress-ng: info:  [6793] failed: 0
+stress-ng: info:  [6793] metrics untrustworthy: 0
+stress-ng: info:  [6793] successful run completed in 49.77 secs
